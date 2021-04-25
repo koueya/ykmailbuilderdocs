@@ -1,0 +1,19 @@
+{
+  "name": "ykmailbuilder",
+  "version": "0.0.1",
+  "description": "Email builder",
+  "main": "index.js",
+  "authors": {
+    "name": "Nestor Koueya",
+    "email": "koueya@gmail.com"
+  },
+  "repository": "https://github.com/koueya/ykmailbuilderdocs/ykmailbuilder",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
